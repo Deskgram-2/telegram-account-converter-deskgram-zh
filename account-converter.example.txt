@@ -1,0 +1,5 @@
+﻿source-path/
+result-path/
+device-settings.json
+proxy-settings.txt
+
